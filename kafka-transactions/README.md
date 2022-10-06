@@ -1,6 +1,6 @@
 # Kafka transactions project
 
-This project content an basis example to:
+This project content an basic example to:
 
 * Create a Kafka Producer that puts messages in a Kafka topic. 
 * Create a Kafka Consumer that consumes those messages, with a Batch Listener and Concurrent threads.
